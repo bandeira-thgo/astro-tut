@@ -1,0 +1,10 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "workbench.colorCustomizations": {},
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'Jetbrains Mono', 'monospace', monospace",
+  "window.autoDetectColorScheme": true,
+  "editor.fontLigatures": true
+}
